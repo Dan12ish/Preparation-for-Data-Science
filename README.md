@@ -1,5 +1,5 @@
 # Preparation-for-Data-Science
-This repository consists programmes I have practiced as a part of my preparation in becoming a Data Scientist.
+This repository consists programmes I have practiced as a part of my preparation to become a Data Scientist.
 
 STATUS: ONGOING...
 
