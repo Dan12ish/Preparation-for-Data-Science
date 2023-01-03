@@ -13,6 +13,22 @@ Weekly Project 7: Getting Started with COVID Analysis - Dataset walkthrough. Get
 • Find number of unique countries 
 • Check the null values in the dataset 
 
-Weekly project 8: COVID Analysis - Sort Analysis - Countries. Get the output for the following questions also:
+Weekly Project 8: COVID Analysis - Sort Analysis - Countries. Get the output for the following questions also:
 • Which Country is having maximum confirmed cases?
 • Which Country is having maximum deaths?
+
+Weekly Project 9: Statistical Analysis on COVID. Get the output for the following questions also:
+• What are the average cases in a country?
+• What is the total number of deaths as per the dataset?
+• What is the total number of confirmed cases?
+
+Weekly Project 10: COVID Analysis
+• Dealing with Null Values
+• Deal with null values and fill null values with 0
+
+Weekly Project 11: COVID Analysis - Data Preprocessing 
+• Also add Year Column in the dataset from Date Column
+• Add Month Column in the dataset from Date Column (1-12)
+• Add Day Column in the dataset from Date Column
+
+Weekly Project 12: 
