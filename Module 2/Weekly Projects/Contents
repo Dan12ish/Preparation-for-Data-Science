@@ -46,4 +46,17 @@ Weekly Project 14: COVID Analysis - Sorting Countries. Answer the following ques
 Weekly Project 15: COVID Analysis - Country Specific. Answer the following questions also:
 • Find Monthly number of total vaccination from Jan to Dec in 2021
 
-Weekly Project 15: 
+Weekly Project 16: Covid Analysis - Visualisation. Answer the following questions:
+• Find the number of Total Vaccinations in India in Year 2020, 2021 and 2022.
+• Compare number of total vaccinations in year 2020 of India and USA.
+• Compare number of total vaccinations in year 2021 of India and China.
+• Find the number of Vaccinations in each month in India in the year 2021.
+• Which month has the most number of total vaccinations in India in 2021.
+
+Weekly Project 17: Data Visualisation on Sales Dataset. Find answers for the following questions:
+• Deal with Null values
+• Find the number of unique orders placed so far
+• How many unique products we're having as per the dataset?
+• Name the most expensive product on the line
+• From which address does the most number of orders are placed?
+• Plot number of orders in each month in line graph
