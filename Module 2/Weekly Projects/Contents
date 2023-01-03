@@ -7,5 +7,12 @@ Weekly Project 5: Write a program to make an Inventory Management System and get
 • Generate Bill
 • Save every Bill in a csv file
 
+Weekly Project 6: A program to convert text files with csv to numpy arrays.
 
+Weekly Project 7: Getting Started with COVID Analysis - Dataset walkthrough. Get the output for the following questions also:
+• Find number of unique countries 
+• Check the null values in the dataset 
 
+Weekly project 8: COVID Analysis - Sort Analysis - Countries. Get the output for the following questions also:
+• Which Country is having maximum confirmed cases?
+• Which Country is having maximum deaths?
