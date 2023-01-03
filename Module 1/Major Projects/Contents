@@ -3,3 +3,16 @@ Contents
 Major Project 1: Write a program to create a dictionary with product id as the key and product details as values for inventory management system.
 
 Major Project 2: Make a Library Management System which has the following functionalities:
+Database of Books that Contains | Dictionary
+• Book name 
+• Book ID 
+• Quantity 
+• Genre 
+• Price 
+• Author 
+Database of student 
+• Student Name 
+• Student ID 
+• Graduation Year 
+• Graduation Degree 
+•  Books Issued | List of Books ID with Issue and Expiry Date
