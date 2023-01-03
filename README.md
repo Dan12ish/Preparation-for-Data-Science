@@ -6,4 +6,5 @@ STATUS: ONGOING...
 Contents 
 
 Module 1: Python Programming 
+
 Module 2: Data Analysis and Visualization 
