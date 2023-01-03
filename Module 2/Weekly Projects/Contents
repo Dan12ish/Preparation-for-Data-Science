@@ -1,3 +1,11 @@
 Contents 
 
-Weekly Project 5:
+Weekly Project 5: Write a program to make an Inventory Management System and get the output for the following questions also:
+• Add new product in Inventory
+• Remove Product from inventory
+• Deduct Product from inventory when purchased 
+• Generate Bill
+• Save every Bill in a csv file
+
+
+
