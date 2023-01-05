@@ -16,4 +16,4 @@ You need to find the important insights from Swiggy dataset as mentioned below
 4. Compare the number of branches on KFC, MacD, Dominos and Subway (visualisation)
 5. Top 10 Most popular cuisines in terms of number of restaurants serving (visualisation)
 6. What is the ratio of veg and nonveg restaurants in India (NonVeg means even if one of the item in menu is NonVeg and Veg means pure Veg Restaurants)..(Couldn't develop logic))
-Dataset Associated with this project: data.json
+Link for the Dataset Associated with this project: https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset
