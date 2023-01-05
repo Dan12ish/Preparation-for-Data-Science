@@ -8,4 +8,11 @@ Make a Recommendation System from final.csv dataset
 4. Also recommend the movies based on the name of the movie (you need to perform one hot encoding on name column of the dataset and finding the similarity) for example The Godfather and The Godfather - II
 Dataset Associated with this project: final.csv
 
-Major Project 4
+Major Project 4: Swiggy EDA And Visualisation
+You need to find the important insights from Swiggy dataset as mentioned below
+1. Find the top 10 most common restaurant name in India 
+2. Find the top 10 most common restaurant name in Bangalore
+3. How many branches of Dominos is there in the dataset
+4. Compare the number of branches on KFC, MacD, Dominos and Subway (visualisation)
+5. Top 10 Most popular cuisines in terms of number of restaurants serving (visualisation)
+6. What is the ratio of veg and nonveg restaurants in India (NonVeg means even if one of the item in menu is NonVeg and Veg means pure Veg Restaurants)..(Couldn't develop logic))
