@@ -7,3 +7,5 @@ Make a Recommendation System from final.csv dataset
 3. Recommend them top 10 movies based on the directors of the movie that user has selected
 4. Also recommend the movies based on the name of the movie (you need to perform one hot encoding on name column of the dataset and finding the similarity) for example The Godfather and The Godfather - II
 Dataset Associated with this project: final.csv
+
+Major Project 4
