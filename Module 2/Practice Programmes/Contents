@@ -1,0 +1,5 @@
+Contents 
+
+Practice Programme 14: Create two tables to practice subqueries (agents and customers) and answer the following:
+1. Name the agents whose customer has the maximum outstanding amount 
+2. Name the agents whose customer has outstanding amount lesser than the average outstanding amount
