@@ -8,3 +8,9 @@ Practice Programme 15: Based on the chinook.db dataset answer the following ques
 1. Top 2 invoices of germany customers with name 
 2. Sum of the invoices of germany customers 
 3. Name the customer with the track id 232
+
+Practice Programme 16: Based on the pelicanstore dataset answer the following questions 
+1. Which gender gives the maximum sales?
+2. Which gender and age group gives the maximum sales?
+3. What is the maximum discount given to the female gender? 
+4. What is the average discount given to the female gender?
