@@ -8,3 +8,5 @@ Contents
 Module 1: Python Programming 
 
 Module 2: Data Analysis and Visualization 
+
+Module 3: Web Scrapping
