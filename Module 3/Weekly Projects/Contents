@@ -1,4 +1,7 @@
 Contents
 
 Weekly Project 21: Data Scrapping of Top 250 IMDB TV Shows
- Datasets associated with the this project: TV_Shows.csv, TV_Shows(Individual).csv
+ Datasets associated with this project: TV_Shows.csv, TV_Shows(Individual).csv
+
+Weekly Project 22: IMDB Celebrities Scraper with Multiprocessing
+ Datasets associated with this project: Final_DataFramw.csv
